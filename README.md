@@ -51,3 +51,12 @@
 
 ![image](https://user-images.githubusercontent.com/56377742/159732912-6f5e712e-78af-4231-a086-16577b3b1ed0.png)
 
+11. Lalu klik tombol save, untuk menyimpan koneksi yang telah anda buat.
+
+![image](https://user-images.githubusercontent.com/56377742/159734895-ab275c54-6ad4-4787-8dc7-6d816ac0f094.png)
+
+12. Selamat koneksi database anda telah selesai.
+
+![image](https://user-images.githubusercontent.com/56377742/159735162-89ed3673-eee2-4632-893d-d6f6b9c36f34.png)
+
+
