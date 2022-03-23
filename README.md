@@ -67,4 +67,12 @@
 
 ![image](https://user-images.githubusercontent.com/56377742/159738196-e9d3d9a5-e514-4f8b-bb42-76fba48cc7a5.png)
 
-2. 
+2. Lalu ketik Search twitter di operators dan drag/Tarik ke process
+
+![image](https://user-images.githubusercontent.com/56377742/159740776-d67794a9-6878-4fe6-aa83-548748042b07.png)
+
+3. Klik search twitter dan klik show advanced parameters
+
+![image](https://user-images.githubusercontent.com/56377742/159741200-ed84ea3e-04c7-4ce6-a76d-3971fc4320e5.png)
+
+4. 
