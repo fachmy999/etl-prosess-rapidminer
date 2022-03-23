@@ -4,6 +4,7 @@
 
 # Persiapan 	:
 
+- Mempunya Laptop atau PC
 - Mempunyai akun twitter
 - Download dan install software Rapid Miner di internet dengan link : https://my.rapidminer.com/nexus/account/index.html#downloads .
 
@@ -60,3 +61,10 @@
 ![image](https://user-images.githubusercontent.com/56377742/159735162-89ed3673-eee2-4632-893d-d6f6b9c36f34.png)
 
 
+# Proses Penarikan data di Twitter 	:
+
+1. Drag koneksi yang telah anda buat di Tab Process
+
+![image](https://user-images.githubusercontent.com/56377742/159738196-e9d3d9a5-e514-4f8b-bb42-76fba48cc7a5.png)
+
+2. 
