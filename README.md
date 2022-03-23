@@ -122,10 +122,16 @@
 
 15. Jika sudah selesai Klik "Run process" dan lihat hasil data yang didapat akan langsung tersimpan di tempat penyimpanan/folder anda.
 
-![image](https://user-images.githubusercontent.com/56377742/159754184-7b7c69b7-93a3-4388-a822-f406bca6d7ab.png)
+![image](https://user-images.githubusercontent.com/56377742/159754442-22e33ab3-c26e-4c10-9067-57eab34fbb7e.png)
 
+16. Berikut hasilnya jika anda berhasil melakukan collect data.
 
+![image](https://user-images.githubusercontent.com/56377742/159755691-29306c3b-e15a-4600-9484-f9ae0c883698.png)
 
+17. Kemudian cek hasil data yang di peroleh di file CSV yang anda simpan tadi.
 
+![image](https://user-images.githubusercontent.com/56377742/159756042-a9331db5-7680-4e02-8a60-08685e232af8.png)
 
+18. Tutorial selesai, selamat anda telah mendapatkan data di Twitter.
 
+# Terima Kasih
