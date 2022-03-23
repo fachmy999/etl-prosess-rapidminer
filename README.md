@@ -63,7 +63,7 @@
 
 # Proses Penarikan data di Twitter 	:
 
-1. Drag koneksi yang telah anda buat di Tab Process
+1. Drag koneksi yang telah anda buat di Tab Process dengan Rapid Miner
 
 ![image](https://user-images.githubusercontent.com/56377742/159738196-e9d3d9a5-e514-4f8b-bb42-76fba48cc7a5.png)
 
